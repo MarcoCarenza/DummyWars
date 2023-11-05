@@ -21,5 +21,4 @@ Below is are gif that show the current progress of the game.
 
 # Camera movement 
 
-![gif_move-min](https://github.com/MarcoCarenza/DummyWars/assets/148258941/185dbb9c-c112-40ab-ac01-9c377890073c)
-
+![camera-min](https://github.com/MarcoCarenza/DummyWars/assets/148258941/b34bffa5-e643-4d25-956f-1446544665da)
