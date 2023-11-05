@@ -12,9 +12,6 @@
 
 
 ## Current Showcase
-
-Below are gif that show the current progress of the game.
-
 # Unit selection, animation and movement
 
 ![gif_move](https://github.com/MarcoCarenza/DummyWars/assets/148258941/fbb81962-c02c-4f91-ac20-8848e679c9db)
