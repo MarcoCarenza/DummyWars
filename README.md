@@ -13,7 +13,7 @@
 
 ## Current Showcase
 
-Below is are gif that show the current progress of the game.
+Below are gif that show the current progress of the game.
 
 # Unit selection, animation and movement
 
